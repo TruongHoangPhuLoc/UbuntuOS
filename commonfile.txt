@@ -1,4 +1,12 @@
 mydir1
 merge conflict right here!!!
 make changes 
+
 sth else
+=======
+
+Hello, How are you?
+=======
+
+
+>>>>>>> refs/remotes/origin/main
