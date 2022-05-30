@@ -1,3 +1,8 @@
 mydir1
+merge conflict right here!!!
 make changes 
+
 Hello, How are you?
+=======
+
+
