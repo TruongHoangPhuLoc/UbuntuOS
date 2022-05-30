@@ -1,4 +1,4 @@
 mydir1
 merge conflict right here!!!
 make changes 
-
+sth else
